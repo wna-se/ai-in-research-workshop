@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2048" height="50" viewBox="0 0 2048 50"
+     shape-rendering="geometricPrecision">
+  <rect width="2048" height="50" fill="#ffffff"/>
+
+  <!-- Master row sampled from the top row of the reference.
+       Horizontal centers use a constant 14.2px spacing. -->
+  <g id="dot-row">
+    <circle cx="4.00" cy="9.00" r="2.51" fill="#040a46"/>
+    <circle cx="18.20" cy="9.00" r="2.52" fill="#040a47"/>
+    <circle cx="32.40" cy="9.00" r="2.54" fill="#040946"/>
+    <circle cx="46.60" cy="9.00" r="2.55" fill="#040945"/>
+    <circle cx="60.80" cy="9.00" r="2.55" fill="#040946"/>
+    <circle cx="75.00" cy="9.00" r="2.54" fill="#040a46"/>
+    <circle cx="89.20" cy="9.00" r="2.53" fill="#050b47"/>
+    <circle cx="103.40" cy="9.00" r="2.52" fill="#050c47"/>
+    <circle cx="117.60" cy="9.00" r="2.49" fill="#040c47"/>
+    <circle cx="131.80" cy="9.00" r="2.47" fill="#040b46"/>
+    <circle cx="146.00" cy="9.00" r="2.45" fill="#040c47"/>
+    <circle cx="160.20" cy="9.00" r="2.43" fill="#040c47"/>
+    <circle cx="174.40" cy="9.00" r="2.43" fill="#040c49"/>
+    <circle cx="188.60" cy="9.00" r="2.42" fill="#040c48"/>
+    <circle cx="202.80" cy="9.00" r="2.40" fill="#030b47"/>
+    <circle cx="217.00" cy="9.00" r="2.39" fill="#030a45"/>
+    <circle cx="231.20" cy="9.00" r="2.39" fill="#030844"/>
+    <circle cx="245.40" cy="9.00" r="2.39" fill="#030843"/>
+    <circle cx="259.60" cy="9.00" r="2.38" fill="#030845"/>
+    <circle cx="273.80" cy="9.00" r="2.36" fill="#030845"/>
+    <circle cx="288.00" cy="9.00" r="2.35" fill="#030945"/>
+    <circle cx="302.20" cy="9.00" r="2.35" fill="#030945"/>
+    <circle cx="316.40" cy="9.00" r="2.33" fill="#030945"/>
+    <circle cx="330.60" cy="9.00" r="2.30" fill="#030a46"/>
+    <circle cx="344.80" cy="9.00" r="2.25" fill="#030a48"/>
+    <circle cx="359.00" cy="9.00" r="2.20" fill="#030947"/>
+    <circle cx="373.20" cy="9.00" r="2.16" fill="#030946"/>
+    <circle cx="387.40" cy="9.00" r="2.12" fill="#030a44"/>
+    <circle cx="401.60" cy="9.00" r="2.07" fill="#020942"/>
+    <circle cx="415.80" cy="9.00" r="2.04" fill="#020842"/>
+    <circle cx="430.00" cy="9.00" r="2.03" fill="#020843"/>
+    <circle cx="444.20" cy="9.00" r="2.01" fill="#020944"/>
+    <circle cx="458.40" cy="9.00" r="2.01" fill="#020844"/>
+    <circle cx="472.60" cy="9.00" r="1.99" fill="#020944"/>
+    <circle cx="486.80" cy="9.00" r="1.97" fill="#030a46"/>
+    <circle cx="501.00" cy="9.00" r="1.96" fill="#020a47"/>
+    <circle cx="515.20" cy="9.00" r="1.93" fill="#020b49"/>
+    <circle cx="529.40" cy="9.00" r="1.91" fill="#020c4b"/>
+    <circle cx="543.60" cy="9.00" r="1.90" fill="#030d4d"/>
+    <circle cx="557.80" cy="9.00" r="1.88" fill="#06104f"/>
+    <circle cx="572.00" cy="9.00" r="1.88" fill="#061250"/>
+    <circle cx="586.20" cy="9.00" r="1.87" fill="#071452"/>
+    <circle cx="600.40" cy="9.00" r="1.86" fill="#071452"/>
+    <circle cx="614.60" cy="9.00" r="1.84" fill="#091653"/>
+    <circle cx="628.80" cy="9.00" r="1.83" fill="#0a1954"/>
+    <circle cx="643.00" cy="9.00" r="1.83" fill="#0b1b56"/>
+    <circle cx="657.20" cy="9.00" r="1.82" fill="#0e1d59"/>
+    <circle cx="671.40" cy="9.00" r="1.80" fill="#0f205a"/>
+    <circle cx="685.60" cy="9.00" r="1.77" fill="#11225b"/>
+    <circle cx="699.80" cy="9.00" r="1.75" fill="#13235b"/>
+    <circle cx="714.00" cy="9.00" r="1.74" fill="#16285d"/>
+    <circle cx="728.20" cy="9.00" r="1.71" fill="#1a2c5f"/>
+    <circle cx="742.40" cy="9.00" r="1.67" fill="#192d5f"/>
+    <circle cx="756.60" cy="9.00" r="1.64" fill="#1d3162"/>
+    <circle cx="770.80" cy="9.00" r="1.62" fill="#223663"/>
+    <circle cx="785.00" cy="9.00" r="1.61" fill="#283e67"/>
+    <circle cx="799.20" cy="9.00" r="1.57" fill="#2d456b"/>
+    <circle cx="813.40" cy="9.00" r="1.54" fill="#2e486c"/>
+    <circle cx="827.60" cy="9.00" r="1.51" fill="#345071"/>
+    <circle cx="841.80" cy="9.00" r="1.51" fill="#385474"/>
+    <circle cx="856.00" cy="9.00" r="1.50" fill="#3d5a78"/>
+    <circle cx="870.20" cy="9.00" r="1.48" fill="#48657f"/>
+    <circle cx="884.40" cy="9.00" r="1.48" fill="#4e6c83"/>
+    <circle cx="898.60" cy="9.00" r="1.47" fill="#527185"/>
+    <circle cx="912.80" cy="9.00" r="1.45" fill="#587787"/>
+    <circle cx="927.00" cy="9.00" r="1.47" fill="#5c7c87"/>
+    <circle cx="941.20" cy="9.00" r="1.47" fill="#618388"/>
+    <circle cx="955.40" cy="9.00" r="1.46" fill="#638786"/>
+    <circle cx="969.60" cy="9.00" r="1.45" fill="#678d85"/>
+    <circle cx="983.80" cy="9.00" r="1.45" fill="#689081"/>
+    <circle cx="998.00" cy="9.00" r="1.46" fill="#68937c"/>
+    <circle cx="1012.20" cy="9.00" r="1.49" fill="#69967a"/>
+    <circle cx="1026.40" cy="9.00" r="1.50" fill="#679775"/>
+    <circle cx="1040.60" cy="9.00" r="1.52" fill="#5f946c"/>
+    <circle cx="1054.80" cy="9.00" r="1.57" fill="#5b9266"/>
+    <circle cx="1069.00" cy="9.00" r="1.61" fill="#589261"/>
+    <circle cx="1083.20" cy="9.00" r="1.64" fill="#55925d"/>
+    <circle cx="1097.40" cy="9.00" r="1.68" fill="#519059"/>
+    <circle cx="1111.60" cy="9.00" r="1.72" fill="#4f8f56"/>
+    <circle cx="1125.80" cy="9.00" r="1.76" fill="#4c8e53"/>
+    <circle cx="1140.00" cy="9.00" r="1.78" fill="#488c4f"/>
+    <circle cx="1154.20" cy="9.00" r="1.81" fill="#488d4f"/>
+    <circle cx="1168.40" cy="9.00" r="1.84" fill="#4a8e50"/>
+    <circle cx="1182.60" cy="9.00" r="1.87" fill="#4a8e4f"/>
+    <circle cx="1196.80" cy="9.00" r="1.90" fill="#4a8d4f"/>
+    <circle cx="1211.00" cy="9.00" r="1.92" fill="#478b4c"/>
+    <circle cx="1225.20" cy="9.00" r="1.96" fill="#458a4a"/>
+    <circle cx="1239.40" cy="9.00" r="2.00" fill="#448949"/>
+    <circle cx="1253.60" cy="9.00" r="2.03" fill="#428747"/>
+    <circle cx="1267.80" cy="9.00" r="2.06" fill="#3f8544"/>
+    <circle cx="1282.00" cy="9.00" r="2.09" fill="#3c8442"/>
+    <circle cx="1296.20" cy="9.00" r="2.12" fill="#39833f"/>
+    <circle cx="1310.40" cy="9.00" r="2.15" fill="#3a823f"/>
+    <circle cx="1324.60" cy="9.00" r="2.19" fill="#3c8240"/>
+    <circle cx="1338.80" cy="9.00" r="2.21" fill="#418643"/>
+    <circle cx="1353.00" cy="9.00" r="2.24" fill="#428644"/>
+    <circle cx="1367.20" cy="9.00" r="2.27" fill="#428644"/>
+    <circle cx="1381.40" cy="9.00" r="2.29" fill="#418644"/>
+    <circle cx="1395.60" cy="9.00" r="2.34" fill="#418643"/>
+    <circle cx="1409.80" cy="9.00" r="2.38" fill="#438544"/>
+    <circle cx="1424.00" cy="9.00" r="2.41" fill="#438544"/>
+    <circle cx="1438.20" cy="9.00" r="2.45" fill="#438544"/>
+    <circle cx="1452.40" cy="9.00" r="2.49" fill="#418442"/>
+    <circle cx="1466.60" cy="9.00" r="2.52" fill="#3f8141"/>
+    <circle cx="1480.80" cy="9.00" r="2.56" fill="#3e8140"/>
+    <circle cx="1495.00" cy="9.00" r="2.58" fill="#3f8241"/>
+    <circle cx="1509.20" cy="9.00" r="2.59" fill="#428543"/>
+    <circle cx="1523.40" cy="9.00" r="2.64" fill="#458745"/>
+    <circle cx="1537.60" cy="9.00" r="2.69" fill="#458744"/>
+    <circle cx="1551.80" cy="9.00" r="2.70" fill="#468844"/>
+    <circle cx="1566.00" cy="9.00" r="2.70" fill="#458944"/>
+    <circle cx="1580.20" cy="9.00" r="2.70" fill="#448943"/>
+    <circle cx="1594.40" cy="9.00" r="2.69" fill="#448943"/>
+    <circle cx="1608.60" cy="9.00" r="2.69" fill="#458a43"/>
+    <circle cx="1622.80" cy="9.00" r="2.64" fill="#448a42"/>
+    <circle cx="1637.00" cy="9.00" r="2.62" fill="#428840"/>
+    <circle cx="1651.20" cy="9.00" r="2.61" fill="#40873e"/>
+    <circle cx="1665.40" cy="9.00" r="2.63" fill="#41893f"/>
+    <circle cx="1679.60" cy="9.00" r="2.64" fill="#41883e"/>
+    <circle cx="1693.80" cy="9.00" r="2.67" fill="#42883e"/>
+    <circle cx="1708.00" cy="9.00" r="2.68" fill="#42883f"/>
+    <circle cx="1722.20" cy="9.00" r="2.69" fill="#43893f"/>
+    <circle cx="1736.40" cy="9.00" r="2.70" fill="#448840"/>
+    <circle cx="1750.60" cy="9.00" r="2.72" fill="#44873f"/>
+    <circle cx="1764.80" cy="9.00" r="2.73" fill="#43873f"/>
+    <circle cx="1779.00" cy="9.00" r="2.75" fill="#448740"/>
+    <circle cx="1793.20" cy="9.00" r="2.75" fill="#448540"/>
+    <circle cx="1807.40" cy="9.00" r="2.77" fill="#42843f"/>
+    <circle cx="1821.60" cy="9.00" r="2.80" fill="#41843e"/>
+    <circle cx="1835.80" cy="9.00" r="2.82" fill="#40843d"/>
+    <circle cx="1850.00" cy="9.00" r="2.82" fill="#3f833b"/>
+    <circle cx="1864.20" cy="9.00" r="2.83" fill="#3e833a"/>
+    <circle cx="1878.40" cy="9.00" r="2.81" fill="#3e843a"/>
+    <circle cx="1892.60" cy="9.00" r="2.79" fill="#3e833a"/>
+    <circle cx="1906.80" cy="9.00" r="2.74" fill="#3c8339"/>
+    <circle cx="1921.00" cy="9.00" r="2.69" fill="#3b8438"/>
+    <circle cx="1935.20" cy="9.00" r="2.64" fill="#3c8539"/>
+    <circle cx="1949.40" cy="9.00" r="2.59" fill="#3c8639"/>
+    <circle cx="1963.60" cy="9.00" r="2.53" fill="#3e873b"/>
+    <circle cx="1977.80" cy="9.00" r="2.50" fill="#3f893c"/>
+    <circle cx="1992.00" cy="9.00" r="2.45" fill="#3f8a3e"/>
+    <circle cx="2006.20" cy="9.00" r="2.43" fill="#408c3f"/>
+    <circle cx="2020.40" cy="9.00" r="2.41" fill="#418d40"/>
+    <circle cx="2034.60" cy="9.00" r="2.39" fill="#438d41"/>
+  </g>
+
+  <!-- Repeat the exact same master row for the remaining two rows. -->
+  <use href="#dot-row" transform="translate(0 14.00)"/>
+  <use href="#dot-row" transform="translate(0 28.00)"/>
+</svg>
