@@ -302,7 +302,10 @@ def main() -> int:
                     raw, source_mime, target_format, args
                 )
             except subprocess.CalledProcessError as exc:
-                detail = exc.stderr.decode("utf-8").strip() if exc.stderr else str(exc)
+                stderr = exc.stderr
+                if isinstance(stderr, bytes):
+                    stderr = stderr.decode(errors="replace")
+                detail = stderr.strip() if stderr else str(exc)
                 results.append(
                     Result(
                         image_index,
