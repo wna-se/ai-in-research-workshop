@@ -57,11 +57,11 @@ Generate both compressed files:
 ```sh
 python3 svg_raster_optimize.py rda_p27_satellite_event_header.svg \
   --output rda_p27_satellite_event_header-small.svg \
-  --max-width 800 --max-height 800
+  --max-width 800 --max-height 800 --format webp --quality 80
 
 python3 svg_raster_optimize.py rda_p27_satellite_event_footer.svg \
   --output rda_p27_satellite_event_footer-small.svg \
-  --max-width 800 --max-height 800
+  --max-width 800 --max-height 800 --format webp --quality 80
 ```
 
 ### With Docker Compose
@@ -77,11 +77,11 @@ Run the same conversions through the `svg-raster` service:
 ```sh
 docker compose run --rm svg-raster rda_p27_satellite_event_header.svg \
   --output rda_p27_satellite_event_header-small.svg \
-  --max-width 800 --max-height 800
+  --max-width 800 --max-height 800 --format webp --quality 80
 
 docker compose run --rm svg-raster rda_p27_satellite_event_footer.svg \
   --output rda_p27_satellite_event_footer-small.svg \
-  --max-width 800 --max-height 800
+  --max-width 800 --max-height 800 --format webp --quality 80
 ```
 
 Compose mounts the repository at `/work`, so generated files are written back to the repository. Rebuild the image after changing the script or Dockerfile.
