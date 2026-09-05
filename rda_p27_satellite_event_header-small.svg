@@ -11,7 +11,9 @@
        with browsers and SVG editors such as Inkscape.
        ============================================================ */
 
-    .logos { display: none; }
+    #logo-divider, #ukri-logo {
+      display: none;
+    }
 
     /* Canvas */
     #background {
