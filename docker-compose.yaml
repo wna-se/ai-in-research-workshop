@@ -1,0 +1,7 @@
+services:
+  svg-raster:
+    build:
+      context: .
+    working_dir: /work
+    volumes:
+      - .:/work
